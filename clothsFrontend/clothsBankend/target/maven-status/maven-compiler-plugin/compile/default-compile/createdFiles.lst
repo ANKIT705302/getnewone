@@ -1,0 +1,10 @@
+com\niit\shoestyle\dao\CategoryRepositoryImpl.class
+com\niit\shoestyle\dao\CustomerDao.class
+com\niit\shoestyle\model\Category.class
+com\niit\shoestyle\dao\CustomerDaoImpl.class
+com\niit\shoestyle\App.class
+com\niit\shoestyle\model\Product.class
+com\niit\shoestyle\model\Authorization.class
+com\niit\shoestyle\model\Customer.class
+com\niit\shoestyle\config\DBConfig.class
+com\niit\shoestyle\dao\CategoryRepository.class
